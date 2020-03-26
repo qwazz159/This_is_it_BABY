@@ -1,0 +1,5 @@
+dickpicks = ['big', 'small', 'large']
+print (dickpicks)
+while 'big' in dickpicks:
+	dickpicks.remove('big')
+print(dickpicks)
